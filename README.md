@@ -18,15 +18,6 @@ This project builds a Credit Card Fraud Detection system using Machine Learning 
 ## Model
 - Logistic Regression (binary classification)
 
-## How to Run
-1. Install dependencies:
-   pip install numpy pandas scikit-learn
-
-2. Update dataset path in the code:
-   pd.read_csv('path/to/creditcard.csv')
-
-3. Run the script:
-   python your_script_name.py
 
 ## Dataset Info
 - 0 = Legitimate transaction
